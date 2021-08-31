@@ -1,7 +1,58 @@
 .jumbotron {
-  padding: 2rem 1rem;
+  background-color: #e2edff;
+  padding-top: 6rem;
 }
 
 a:hover {
   color: #3f729b;
+}
+
+#skill {
+  background-color: #e2edff;
+}
+
+.navbar-brand {
+  font-family: Viga, sans-serif;
+  font-size: 20px;
+}
+.nav-item {
+  font-family: Viga, sans-serif;
+  font-size: 20px;
+}
+.display-4 {
+  font-family: Rubik, sans-serif;
+  font-size: 50px;
+}
+.lead {
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+}
+.btn {
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+}
+h2 {
+  font-family: Poppins, sans-serif;
+  font-size: 32px;
+}
+.deskripsi_diri{
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+}
+.judul_skill {
+  font-family: Poppins, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.card-text {
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+}
+section {
+  padding-top: 5rem;
+}
+footer {
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
 }
